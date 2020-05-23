@@ -1,4 +1,4 @@
-from aquaui import app
+from tlr_ui import app
 import os
 
 if __name__ == '__main__':
